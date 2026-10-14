@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Video-Promotion-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Promotion-Platform?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Video-Promotion-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Promotion-Platform?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Promotion-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Promotion-Platform?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Promotion-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Promotion-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -77,48 +77,48 @@ The table below catalogs leading commercial video promotion tools, YouTube adver
 
 ## 🔓 Open-Source Repositories & Growth Tools
 
-Curated open-source projects for automated publishing, video SEO, campaign generation, and headless distribution pipelines. **Sorted in descending order by GitHub Stars**:
+Curated open-source projects for automated publishing, video SEO, campaign generation, and headless distribution pipelines. **Sorted in descending order by GitHub_Stars**:
 
-* **[Postiz](https://github.com/gitroomhq/postiz-app)** [![GitHub stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)  
+* **[Postiz](https://github.com/gitroomhq/postiz-app)** [![GitHub_Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)  
   *The ultimate open-source agentic social media scheduling and publishing platform.* Supports scheduling and auto-publishing videos to YouTube, TikTok, Instagram, X (Twitter), LinkedIn, Threads, and Pinterest with an AI assistant, team workspaces, and analytics.
 
-* **[social-auto-upload](https://github.com/dreammis/social-auto-upload)** [![GitHub stars](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=social&color=white)](https://github.com/dreammis/social-auto-upload/stargazers)  
+* **[social-auto-upload](https://github.com/dreammis/social-auto-upload)** [![GitHub_Stars](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=social&color=white)](https://github.com/dreammis/social-auto-upload/stargazers)  
   *Automated multi-platform video uploading pipeline.* Automatically publishes videos simultaneously across YouTube, TikTok, Bilibili, Douyin, Xiaohongshu, and WeChat Channels using headless browser automation and official API integrations.
 
-* **[Mixpost](https://github.com/inovector/mixpost)** [![GitHub stars](https://img.shields.io/github/stars/inovector/mixpost?style=social&color=white)](https://github.com/inovector/mixpost/stargazers)  
+* **[Mixpost](https://github.com/inovector/mixpost)** [![GitHub_Stars](https://img.shields.io/github/stars/inovector/mixpost?style=social&color=white)](https://github.com/inovector/mixpost/stargazers)  
   *Self-hosted social media management and video distribution engine.* Open-source Buffer and Hootsuite alternative. Schedule, publish, and track video content across YouTube, TikTok, Facebook, Instagram, LinkedIn, and Mastodon without monthly subscription fees.
 
-* **[youtube-upload](https://github.com/tokland/youtube-upload)** [![GitHub stars](https://img.shields.io/github/stars/tokland/youtube-upload?style=social&color=white)](https://github.com/tokland/youtube-upload/stargazers)  
+* **[youtube-upload](https://github.com/tokland/youtube-upload)** [![GitHub_Stars](https://img.shields.io/github/stars/tokland/youtube-upload?style=social&color=white)](https://github.com/tokland/youtube-upload/stargazers)  
   *Command-line script for batch uploading and scheduling videos to YouTube via the official YouTube Data API v3.* Features category selection, privacy options, automated playlist assignment, and scheduling.
 
-* **[video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit)** [![GitHub stars](https://img.shields.io/github/stars/Hao0321/video-autopilot-kit?style=social&color=white)](https://github.com/Hao0321/video-autopilot-kit/stargazers)  
+* **[video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit)** [![GitHub_Stars](https://img.shields.io/github/stars/Hao0321/video-autopilot-kit?style=social&color=white)](https://github.com/Hao0321/video-autopilot-kit/stargazers)  
   *End-to-end automated framework for YouTube and short-form video generation & publishing.* Combines CapCut JSON templates, FFmpeg assembly tooling, and automated questionnaire scripts with zero telemetry or private data leakage.
 
-* **[easy-uploader](https://github.com/wanghaisheng/easy-uploader)** [![GitHub stars](https://img.shields.io/github/stars/wanghaisheng/easy-uploader?style=social&color=white)](https://github.com/wanghaisheng/easy-uploader/stargazers)  
+* **[easy-uploader](https://github.com/wanghaisheng/easy-uploader)** [![GitHub_Stars](https://img.shields.io/github/stars/wanghaisheng/easy-uploader?style=social&color=white)](https://github.com/wanghaisheng/easy-uploader/stargazers)  
   *Bulk video uploader and scheduling system for creators and marketing teams.* Enables batch headless uploading and scheduled syndication across all major video networks to maximize organic leads.
 
-* **[vast-client-js](https://github.com/dailymotion/vast-client-js)** [![GitHub stars](https://img.shields.io/github/stars/dailymotion/vast-client-js?style=social&color=white)](https://github.com/dailymotion/vast-client-js/stargazers)  
+* **[vast-client-js](https://github.com/dailymotion/vast-client-js)** [![GitHub_Stars](https://img.shields.io/github/stars/dailymotion/vast-client-js?style=social&color=white)](https://github.com/dailymotion/vast-client-js/stargazers)  
   *High-performance JavaScript VAST (up to VAST 4.2) parser and programmatic ad-serving client.* Developed by Dailymotion for serving linear and non-linear video advertisements across HTML5 players.
 
-* **[Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC)** [![GitHub stars](https://img.shields.io/github/stars/Anil-matcha/Open-AI-UGC?style=social&color=white)](https://github.com/Anil-matcha/Open-AI-UGC/stargazers)  
+* **[Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC)** [![GitHub_Stars](https://img.shields.io/github/stars/Anil-matcha/Open-AI-UGC?style=social&color=white)](https://github.com/Anil-matcha/Open-AI-UGC/stargazers)  
   *Self-hosted AI UGC video ad generation studio.* Open-source alternative to Arcads and MakeUGC. Generates high-converting promotional ads and video hooks featuring AI actors powered by Veo 3.1, Seedance 2, Grok Video, and Happy Horse.
 
-* **[youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills)** [![GitHub stars](https://img.shields.io/github/stars/adityaarsharma/youtube-marketing-skills?style=social&color=white)](https://github.com/adityaarsharma/youtube-marketing-skills/stargazers)  
+* **[youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/adityaarsharma/youtube-marketing-skills?style=social&color=white)](https://github.com/adityaarsharma/youtube-marketing-skills/stargazers)  
   *Open-source agent-agnostic YouTube growth toolkit.* Ships 21 AI commands and a live channel Model Context Protocol (MCP) server. Delivers competitor gap analysis, keyword volume tracking via DataForSEO MCP, title/thumbnail ideation, and WordPress post generation.
 
-* **[youtube-skills](https://github.com/sergebulaev/youtube-skills)** [![GitHub stars](https://img.shields.io/github/stars/sergebulaev/youtube-skills?style=social&color=white)](https://github.com/sergebulaev/youtube-skills/stargazers)  
+* **[youtube-skills](https://github.com/sergebulaev/youtube-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/sergebulaev/youtube-skills?style=social&color=white)](https://github.com/sergebulaev/youtube-skills/stargazers)  
   *YouTube and YouTube Shorts marketing skills for Claude Code and Codex.* Crafts high-CTR titles, SEO-optimized descriptions with timestamps, audience retention hooks, and multi-week editorial calendar sequencing.
 
-* **[claude-video](https://github.com/AgriciDaniel/claude-video)** [![GitHub stars](https://img.shields.io/github/stars/AgriciDaniel/claude-video?style=social&color=white)](https://github.com/AgriciDaniel/claude-video/stargazers)  
+* **[claude-video](https://github.com/AgriciDaniel/claude-video)** [![GitHub_Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-video?style=social&color=white)](https://github.com/AgriciDaniel/claude-video/stargazers)  
   *AI-powered video production suite for Claude Code.* Full pipeline covering video transcoding, contrast-aware captions, stock footage promo generation, and single-command export presets tailored for YouTube, TikTok, Instagram, and LinkedIn.
 
-* **[ai-social-agent](https://github.com/Nuraveda/ai-social-agent)** [![GitHub stars](https://img.shields.io/github/stars/Nuraveda/ai-social-agent?style=social&color=white)](https://github.com/Nuraveda/ai-social-agent/stargazers)  
+* **[ai-social-agent](https://github.com/Nuraveda/ai-social-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/Nuraveda/ai-social-agent?style=social&color=white)](https://github.com/Nuraveda/ai-social-agent/stargazers)  
   *Multi-brand social video AI agent.* Scans trend signals, drafts platform-tailored scripts, renders short-form videos via pluggable providers (Kling, Veo, fal.ai), and enforces a human-in-the-loop approval gate before publishing to YouTube Shorts, Instagram Reels, and X/Twitter.
 
-* **[socialdrop](https://github.com/txrbgy/socialdrop)** [![GitHub stars](https://img.shields.io/github/stars/txrbgy/socialdrop?style=social&color=white)](https://github.com/txrbgy/socialdrop/stargazers)  
+* **[socialdrop](https://github.com/txrbgy/socialdrop)** [![GitHub_Stars](https://img.shields.io/github/stars/txrbgy/socialdrop?style=social&color=white)](https://github.com/txrbgy/socialdrop/stargazers)  
   *Local-first folder-based video publishing pipeline.* Watches a local folder, reads companion markdown metadata and scheduled dates, and publishes through official APIs to YouTube, TikTok, Instagram, X, LinkedIn, and Bluesky while storing credentials securely in the OS keyring.
 
-* **[YouTube-Virtual-Manager](https://github.com/Build4Build/YouTube-Virtual-Manager)** [![GitHub stars](https://img.shields.io/github/stars/Build4Build/YouTube-Virtual-Manager?style=social&color=white)](https://github.com/Build4Build/YouTube-Virtual-Manager/stargazers)  
+* **[YouTube-Virtual-Manager](https://github.com/Build4Build/YouTube-Virtual-Manager)** [![GitHub_Stars](https://img.shields.io/github/stars/Build4Build/YouTube-Virtual-Manager?style=social&color=white)](https://github.com/Build4Build/YouTube-Virtual-Manager/stargazers)  
   *Desktop YouTube channel management and analytics optimizer.* Electron and React dashboard connecting with YouTube API and OpenAI to analyze channel statistics, pinpoint underperforming videos, and recommend growth actions.
 
 ---
