@@ -1,6 +1,6 @@
 # Awesome-Video-Promotion-Platform
 
-# Top Video Promotion Platform Ecosystem
+## Top Video Promotion Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Video Distribution, Audience Growth & Cross-Platform Publishing*  
